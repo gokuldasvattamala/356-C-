@@ -36,7 +36,7 @@ import java.util.ArrayList;
 public class AddCity extends Activity
 {
 
-    
+
   //variable declaration
     TextView addCity;
 
